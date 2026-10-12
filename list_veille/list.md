@@ -1,24 +1,12 @@
-\# Liste des veille technologie :
+# Liste des veille technologie :
+- Done :  
+    - Définition de veille technologie  (Khadija Gerouj)
+    - Agent AI   (Omar Moutalie)
+    - Ai agent skills  (ibrahim medkour)
+    - MCP  (Mohamed Dghar)
+    - Claude Code For Free  (Ayoub Amaghouch)
 
-\- Done :  
-
-&#x20;   - Définition de veille technologie  (Khadija Gerouj)
-
-&#x20;   - Agent AI   (Omar Moutalie)
-
-&#x20;   - Ai agent skills  (ibrahim medkour)
-
-&#x20;   - MCP  (Mohamed Dghar)
-
-&#x20;   - Claude Code For Free  (Ayoub Amaghouch)
-
-
-
-\- Not Done : 
-
-&#x20;   - 1:opencode(mohammed yassir mesbahi)
-
-&#x20;   - 2: RAG (badreddine Hammam)
-
-&#x09;- 3: SOLID (Mesbahi Nour)
-
+- Not Done : 
+    - 1:opencode(mohammed yassir mesbahi)
+    - 2: RAG (badreddine Hammam)
+	- 3: SOLID (Mesbahi Nour)
