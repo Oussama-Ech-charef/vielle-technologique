@@ -25,3 +25,4 @@
 | DevOps | Mohammed Yassir Mesbahi |
 | Réseau | Ayoub |
 | Linux | Mohamed Dghar |
+| vite   | Oussama Ech-charef
